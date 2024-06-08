@@ -1,6 +1,6 @@
 ### Hey, I'm Blaine 👋🏽  
 
-I'm a software engineer based in Toronto and I'm passionate about creating digital solutions. 
+I'm a software developer based in Toronto and I'm passionate about creating clean, simple, and accessible code to solve anything and everything. 
  
 ## 📦 Toolbox
 
